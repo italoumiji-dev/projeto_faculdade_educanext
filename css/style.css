@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img{
+    width: 200px;
+    height: 100px;
+}
+.cabecalho{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(157, 157, 218);
+
+}
+div a :hover{
+    padding: 10px;
+    text-decoration: none;
+}
+.navegacao{
+    display: flex;
+    padding: 35px;
+    
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
